@@ -1,0 +1,30 @@
+*{
+    outline:0;
+    padding:0;
+    margin:0;
+    border:0;
+}
+
+img{
+    height: 280px;
+    width: 280px;
+    border-radius: 30px;
+}
+table{
+    margin:0 auto;
+    backdrop-filter: blur(8px);
+    background-color: rgba(192, 192, 192, 0.35);
+}
+td{
+    padding: 10px;
+}
+summary{
+    color: yellow;
+    background-color: rgb(2, 27, 42);
+    font-size: 40px;
+    width: 60%;
+    text-align: center;
+    margin:10px auto;
+    font-family: 'Syne Mono', monospace;
+    font-weight: 500;
+}
